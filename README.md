@@ -36,19 +36,26 @@ Clone this repository to your local machine using Git.
    ```bash
    git clone https://github.com/aman4374/E-commerce-Website
 2. **Change to the project directory.**
+   ```bash
    cd megamart-ecommerce
 
 3.**Install server dependencies (recommended to use yarn):**
+```bash
 yarn install
+```
 or
+```bash
 npm i
-
+```
 4.**Create a .env file or rename .env.dev to .env and add your own configuration based on the provided .env.dev file.**
 
 5.**Start the development server using this command:**
+```bash
 yarn start
+```
 or
+```bash
 npm start
-
+```
 6. **Access the application in your web browser at http://localhost:3000.**
 
